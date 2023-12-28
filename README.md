@@ -5,7 +5,7 @@ Let me introduce myself…
 
 ### As a human
 
-My name is **Leonid Kozarin**. I'm a codeborn programmer in the 2nd generation[*](#father) from North-West of Russia. My birth town is Severodvinsk. This is a city near Arkhangelsk, Russian Los-Angeles :)
+I'm a codeborn programmer in the 2nd generation[*](#father) from North-West of Russia. My birth town is Severodvinsk. This is a city near Arkhangelsk, Russian Los-Angeles :)
 
 I love _Chineese tea_ (especially red varieties and GABA oolongs), milk coffee beverages, _craft beer_ (especially stouts, IPAs and milkshakes) and smoking a _hookah_. I like _comedies_ and _cartoons_, hiking, sightseeing and taking shots of interesting places. What about music? I like Russian _rave_ (GSPD, CMH, Dead Blonde), _rap_ (dom!No, playingtheangel, RAY-D, aikko), _pop punk_ (ЗАВТРА БРОШУ, ONEDAY, Drug Твоей Тёлки).
 
