@@ -35,7 +35,7 @@ The last year I had decided to step away from virtual machines and interpreted l
 Shortly speaking, I would describe my preferences as:
 
 ❤️ **I love**:
-* strongly statically typed and functional languages like Rust, Kotlin, Java, Python with type hints as an exception for prototypes and small programs;
+* strongly statically typed and functional languages like Rust, Kotlin, Java, and Python with type hints as an exception for prototypes and small programs;
 * Windows, MacOS, Linux on servers and IT infrastructure;
 * crypto and finances, blockchain and distributed systems in general;
 * scientists.
