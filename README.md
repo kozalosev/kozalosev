@@ -70,8 +70,10 @@ Some other old (legacy) projects:
 ### What am I going to learn next and therefore what might interest me?
 * Scala
 * Solidity
+* Kafka
 
 
 ## How to reach me
-* Telegram — [@kozalo](https://t.me/kozalo) 
+* Telegram — [@kozalo](https://t.me/kozalo)
+* Instagram — [@kozalo](https://www.instagram.com/kozalo)
 * [LinkedIn](https://www.linkedin.com/in/kozalo)
